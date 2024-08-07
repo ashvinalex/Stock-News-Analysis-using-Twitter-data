@@ -1,4 +1,4 @@
-# Stock-Price-Analysis-from-Twitter-data
+# Stock-Analysis-Using-Twitter-data
 
 
 The Twitter Developer V2 API allows you to get data from Twitter using a variety of endpoints. To use the API, you'll first need to create a Twitter Developer account and a project within that account. Then, you'll need to generate API keys and tokens, which are unique to your app and are used to authenticate your API requests.
